@@ -62,8 +62,3 @@ The Quote Tool automates the process of creating quotes in Excel. It matches cus
 - **For Distribution to Non-Technical Users**:
   - Use [PyInstaller](https://pyinstaller.org) to package the script as a `.exe` (Windows).
   - On macOS, use the xlwings add-in for seamless integration.
-
----
-
-## Support
-For troubleshooting or questions, contact **[Your Name/Email]**.
